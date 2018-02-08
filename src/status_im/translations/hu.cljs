@@ -215,7 +215,6 @@
 
    :sharing-share                         "Megosztás..."
    :type-a-message                        "Írj egy üzenetet..."
-   :type-a-command                        "Kezdj el begépelni egy parancsot..."
    :shake-your-phone                      "Találtál egy hibát vagy javaslatod van? Csak ~rázd~ meg a telefonod!"
    :status-prompt                         "Hozz létre egy állapotot és segíts az embereknek, hogy megismerjék az általad kínált dolgokat. Használhatsz #hashtageket is."
    :add-a-status                          "Állapot hozzáadása..."

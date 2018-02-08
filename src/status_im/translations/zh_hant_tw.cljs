@@ -15,7 +15,6 @@
    :description                           "簡介"
    :url                                   "連結"
    :type-a-message                        "輸入訊息..."
-   :type-a-command                        "開始輸入指令..."
    :error                                 "錯誤"
    :unknown-status-go-error               "未知的 status-go 錯誤"
    :node-unavailable                      "沒有可用的以太坊節點"

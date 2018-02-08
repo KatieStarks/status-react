@@ -215,7 +215,6 @@
 
    :sharing-share                         "Compartilhar..."
    :type-a-message                        "Digite uma mensagem..."
-   :type-a-command                        "Comece a digitar um comando..."
    :shake-your-phone                      "Encontrou um erro ou tem uma sugestão? Basta ~agitar~ seu telefone!"
    :status-prompt                         "Crie um status para ajudar as pessoas a saberem sobre as coisas que você está oferecendo. Você também pode utilizar #hashtags."
    :add-a-status                          "Adicionar um status..."

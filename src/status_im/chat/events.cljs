@@ -149,7 +149,6 @@
   [re-frame/trim-v]
   (fn [db [details]]
     (model/set-chat-ui-props db {:show-bottom-info? true
-                                 :show-emoji? false
                                  :bottom-info details})))
 
 (def index-messages (partial into {} (map (juxt :message-id identity))))

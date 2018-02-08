@@ -12,7 +12,6 @@
    :cancel                                "Annuleren"
    :next                                  "Volgende"
    :type-a-message                        "Typ een bericht..."
-   :type-a-command                        "typ een commando..."
    :error                                 "Error"
 
    :camera-access-error                   "Om cameratoegang te geven, ga je naar systeem instellingen en zorg je dat Status > Camera geselecteerd is."

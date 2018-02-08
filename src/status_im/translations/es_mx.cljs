@@ -12,7 +12,6 @@
    :cancel                                "Cancelar"
    :next                                  "Siguiente"
    :type-a-message                        "Escribe un mensaje..."
-   :type-a-command                        "Escribe un comando..."
    :error                                 "Error"
 
    :camera-access-error                   "Para permitir el acceso a la cámara, porfavor, ve a configuración de sistema y asegúrate que la opción 'Status > Cámara' está seleccionada."

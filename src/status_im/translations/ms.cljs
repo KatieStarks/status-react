@@ -12,7 +12,6 @@
    :cancel                                "Batal"
    :next                                  "Seterusnya"
    :type-a-message                        "Taip mesej..."
-   :type-a-command                        "Mulakan menaip arahan..."
    :error                                 "Gagal"
 
    :camera-access-error                   "Untuk memberi keizinan akses kamera yang diperlukan, sila pergi ke aturan sistem anda dan pastikan bahawa Status > Kamera telah dipilih."

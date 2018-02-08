@@ -15,7 +15,6 @@
    :description                           "Beskrivning"
    :url                                   "URL"
    :type-a-message                        "Skriv ett meddelande..."
-   :type-a-command                        "Skriv ett kommando..."
    :error                                 "Ett fel uppstod"
    :unknown-status-go-error               "Okänt status-go fel"
    :node-unavailable                      "Ingen ethereum-nod är igång"

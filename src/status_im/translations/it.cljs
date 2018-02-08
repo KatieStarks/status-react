@@ -15,7 +15,6 @@
    :description                           "Descrizione"
    :url                                   "URL"
    :type-a-message                        "Scrivi un messaggio..."
-   :type-a-command                        "Inizia a digitare un comando..."
    :error                                 "Errore"
    :unknown-status-go-error               "Errore status-go sconosciuto"
    :node-unavailable                      "Nessun nodo ethereum disponibile"

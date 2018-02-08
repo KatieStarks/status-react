@@ -15,7 +15,6 @@
    :description                           "Descripción"
    :url                                   "URL"
    :type-a-message                        "Escribe un mensaje..."
-   :type-a-command                        "Comienza escribiendo un comando..."
    :error                                 "Error"
    :unknown-status-go-error               "Error de status-go desconocido"
    :node-unavailable                      "No existe un nodo en funcionamiento"

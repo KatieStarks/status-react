@@ -12,7 +12,6 @@
    :cancel                                "取消"
    :next                                  "下一個"
    :type-a-message                        "輸入訊息..."
-   :type-a-command                        "開始輸入指令..."
    :error                                 "錯誤"
 
    :camera-access-error                   "要授予所需的攝像機許可，請轉到系統設置，並確定選擇了“狀態”>“攝像機”。"

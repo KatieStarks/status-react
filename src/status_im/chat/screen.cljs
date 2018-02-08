@@ -108,10 +108,8 @@
   (letsubs [{:keys [group-chat input-text]} [:get-current-chat]
             show-actions?                   [:get-current-chat-ui-prop :show-actions?]
             show-bottom-info?               [:get-current-chat-ui-prop :show-bottom-info?]
-            show-emoji?                     [:get-current-chat-ui-prop :show-emoji?]
             layout-height                   [:get :layout-height]
             current-view                    [:get :view-id]]
-    {:component-will-unmount #(re-frame/dispatch [:set-chat-ui-props {:show-emoji? false}])}
     [react/view {:style style/chat-view
                  :on-layout (fn [event]
                               (let [height (.. event -nativeEvent -layout -height)]

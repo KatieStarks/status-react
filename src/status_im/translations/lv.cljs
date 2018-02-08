@@ -12,7 +12,6 @@
    :cancel                                "Atcelt"
    :next                                  "Tālāk"
    :type-a-message                        "Raksti īsziņu..."
-   :type-a-command                        "Ievadi komandu..."
    :error                                 "Kļūda"
 
    :camera-access-error                   "Kļūda, nav atļaujas piekļūt kamerai. Lūdzu, iestatījumos pārliecinies, ka  Status > Camera ir izvēlēts."

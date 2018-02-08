@@ -15,7 +15,6 @@
    :description                           "Aprašymas"
    :url                                   "URL"
    :type-a-message                        "Įveskite žinutę..."
-   :type-a-command                        "Pradėkite rašyti komandą..."
    :error                                 "Klaida"
    :unknown-status-go-error               "Nežinoma status-go klaida"
    :node-unavailable                      "Joks ethereum mazgas neveikia"

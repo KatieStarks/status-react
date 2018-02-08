@@ -15,7 +15,6 @@
    :description                           "Beschreibung"
    :url                                   "URL"
    :type-a-message                        "Tippe eine Nachricht..."
-   :type-a-command                        "Tippe einen Befehl..."
    :error                                 "Fehler"
    :unknown-status-go-error               "Unbekannter status-go Fehler"
    :node-unavailable                      "Kein laufender Ethereum-Knoten"

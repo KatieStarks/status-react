@@ -15,7 +15,6 @@
    :description                           "Description"
    :url                                   "URL"
    :type-a-message                        "Saisissez un message..."
-   :type-a-command                        "Saisissez une commande..."
    :error                                 "Erreur"
    :unknown-status-go-error               "Erreur status-go inconnue"
    :node-unavailable                      "Aucun noeud ethereum n'est disponible"

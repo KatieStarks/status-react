@@ -12,7 +12,6 @@
    :cancel                                "Avbryt"
    :next                                  "Neste"
    :type-a-message                        "Skriv en melding..."
-   :type-a-command                        "Start å skrive en kommando..."
    :error                                 "Feil"
    :unknown-status-go-error               "Ukjent status-go feil"
    :node-unavailable                      "Ingen Ethereum node kjørende"

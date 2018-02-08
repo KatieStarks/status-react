@@ -215,7 +215,6 @@
 
    :sharing-share                         "Deli..."
    :type-a-message                        "Napiši sporočilo..."
-   :type-a-command                        "Začni pisati ukaz..."
    :shake-your-phone                      "Ste naleteli na napako ali imate predlog? Preprosto ~stresite~ vaš telefon!"
    :status-prompt                         "Ustvarite status, ki bo drugim nudil več informacij o stvareh, ki jih nudite. Uporabljate lahko tudi #hashtage."
    :add-a-status                          "Dodaj status..."

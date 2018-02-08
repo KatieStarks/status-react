@@ -15,7 +15,6 @@
    :description                           "简介"
    :url                                   "链接"
    :type-a-message                        "输入讯息..."
-   :type-a-command                        "开始输入指令..."
    :error                                 "错误"
    :unknown-status-go-error               "未知的 status-go 错误"
    :node-unavailable                      "没有运行的以太坊节点"

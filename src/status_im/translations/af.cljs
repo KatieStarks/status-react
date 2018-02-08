@@ -215,7 +215,6 @@
 
    :sharing-share                         "Deel..."
    :type-a-message                        "Tik ‘n boodskap..."
-   :type-a-command                        "Begin ‘n opdrag tik..."
    :shake-your-phone                      "Vind ‘n fout of het ‘n voorstel? Skud ~net~ u foon!"
    :status-prompt                         "Skep ‘n status om te help dat mense weet oor die goed wat u aanbied. U kan #hutsmerke ook gebruik."
    :add-a-status                          "Voeg ‘n status by..."

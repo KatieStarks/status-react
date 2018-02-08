@@ -3,44 +3,34 @@
   (:require [status-im.ui.components.styles :as common]
             [status-im.utils.platform :as platform]))
 
-(def color-item-title-text "rgb(147, 155, 161)")
-(def color-item-suggestion-name "rgb(98, 143, 227)")
-(def color-item-border "#e8eaeb")
+(def color-root-border "#e8ebec")
 
-(defn item-title-container [top-padding?]
-  {:margin-left      16
-   :align-items      :center
-   :flex-direction   :row
-   :height           44})
+(def color-item-description-text "#99a0a6")
+(def color-item-border "#e8ebec")
 
-(def item-title-text
-  {:font-size 14
-   :color     color-item-title-text})
+(def item-height 52)
+(def border-height 1)
 
-(defnstyle item-suggestion-container [last?]
-  {:flex-direction :row
-   :align-items    :center
-   :height         56
-   :margin-left    16
-   :ios            {:border-bottom-color color-item-border
-                    :border-bottom-width (if last? 0 1)}})
+(def root
+  {:background-color common/color-white
+   :border-top-color color-root-border
+   :border-top-width 1})
+
+(defn item-suggestion-container [last?]
+  {:flex-direction      :row
+   :align-items         :center
+   :height              item-height
+   :margin-left         14
+   :padding-right       14
+   :border-bottom-color color-item-border
+   :border-bottom-width (if last? 0 border-height)})
 
 (def item-suggestion-name
-  {:background-color color-item-suggestion-name
-   :height           28
-   :flex-direction   :row
-   :align-items      :center
-   :border-radius    4
-   :padding-left     7
-   :padding-right    7})
-
-(def item-suggestion-name-text
-  {:color     common/color-white
-   :font-size 14})
+  {:color     common/color-black
+   :font-size 15})
 
 (def item-suggestion-description
   {:flex         1
-   :font-size    14
-   :margin-left  16
-   :margin-right 16
-   :color        color-item-title-text})
+   :font-size    15
+   :margin-left  10
+   :color        color-item-description-text})

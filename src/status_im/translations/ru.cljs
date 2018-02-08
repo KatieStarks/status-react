@@ -15,7 +15,6 @@
    :description                           "Описание"
    :url                                   "URL-адрес"
    :type-a-message                        "Напишите сообщение..."
-   :type-a-command                        "Начинайте вводить команду..."
    :error                                 "Ошибка"
    :unknown-status-go-error               "Неизвестная status-go ошибка"
    :node-unavailable                      "Нет запущенного ethereum узла"

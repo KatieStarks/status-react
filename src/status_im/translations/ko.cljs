@@ -15,7 +15,6 @@
    :description                           "설명"
    :url                                   "URL"
    :type-a-message                        "메시지 입력..."
-   :type-a-command                        "명령 입력..."
    :error                                 "오류"
    :unknown-status-go-error               "알 수 없는 status-go 오류"
    :node-unavailable                      "사용 가능한 Ethereum 노드가 없습니다."

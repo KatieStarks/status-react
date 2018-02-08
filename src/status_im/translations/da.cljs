@@ -12,7 +12,6 @@
    :cancel                                "Annullér"
    :next                                  "Næste"
    :type-a-message                        "Skriv en besked..."
-   :type-a-command                        "Skriv en kommando..."
    :error                                 "Fejl"
 
    :camera-access-error                   "Gå venligst til dine systemindstillinger og sørg  for at du Status > Kamera er tilladt."

@@ -15,7 +15,6 @@
    :description                           "Опис"
    :url                                   "УРЛ"
    :type-a-message                        "Укуцајте поруку..."
-   :type-a-command                        "Укуцајте наредбу..."
    :error                                 "Грешка"
    :unknown-status-go-error               "Непозната status-go грешка"
    :node-unavailable                      "Етереум сервис није покренут"

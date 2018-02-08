@@ -215,7 +215,6 @@
 
    :sharing-share                         "Paylaşın..."
    :type-a-message                        "Mesaj yazın..."
-   :type-a-command                        "Komut girmeye başlayın..."
    :shake-your-phone                      "Hata mı buldunuz ya da öneriniz mi var? Sadece telefonunuzu ~sallamanız~ yeterli!"
    :status-prompt                         "Sunduğunuz şeyler hakkında insanlara yardımcı olması için bir durum oluşturun. #hashtag de kullanabilirsiniz."
    :add-a-status                          "Durum ekleyin..."

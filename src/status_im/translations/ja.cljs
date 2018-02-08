@@ -15,7 +15,6 @@
    :description                           "説明"
    :url                                   "URL"
    :type-a-message                        "メッセージを入力する..."
-   :type-a-command                        "コマンドを入力する..."
    :error                                 "エラー"
    :unknown-status-go-error               "不明なstatus-goがエラー"
    :node-unavailable                      "実行中のエーテル　ノードがありません"

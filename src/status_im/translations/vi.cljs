@@ -215,7 +215,6 @@
 
    :sharing-share                         "Chia sẻ..."
    :type-a-message                        "Nhập một tin nhắn..."
-   :type-a-command                        "Bắt đầu nhập một lệnh ..."
    :shake-your-phone                      "Tìm thấy lỗi hoặc có đề xuất? Chỉ cần ~lắc~ điện thoại của bạn!"
    :status-prompt                         "Tạo trạng thái để giúp mọi người biết về những điều bạn đang cung cấp. Bạn cũng có thể sử dụng #hashtags."
    :add-a-status                          "Thêm trạng thái ..."

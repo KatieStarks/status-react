@@ -12,7 +12,6 @@
    :cancel                                "Storno"
    :next                                  "Další"
    :type-a-message                        "Napište zprávu..."
-   :type-a-command                        "Začněte psát příkaz..."
    :error                                 "Chyba"
 
    :camera-access-error                   "Pro udělení potřebných oprávnění ke kameře přejděte do nastavení systému a ujistěte se, že je vybráno Status > Kamera."

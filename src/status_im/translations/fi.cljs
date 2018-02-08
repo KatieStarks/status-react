@@ -12,7 +12,6 @@
    :cancel                                "Peruuta"
    :next                                  "Seuraava"
    :type-a-message                        "Kirjoita viesti..."
-   :type-a-command                        "Aloita komennon kirjoittaminen..."
    :error                                 "Virhe"
 
    :camera-access-error                   "Myöntääksesi vaadittu kameran käyttölupa, siirry järjestelmäasetuksiin ja varmista, että Status > Kamera on valittu."

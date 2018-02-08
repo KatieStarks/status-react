@@ -217,7 +217,6 @@
    :in-contacts                           "En contactos"
 
    :type-a-message                        "Escribir un mensaje..."
-   :type-a-command                        "Comience a escribir un comando..."
    :shake-your-phone                      "¿Encontró un error o tiene una sugerencia? ¡~Sacuda~ su teléfono!"
    :status-prompt                         "Cree un estado para que la gente vea lo que ofrece. También puede usar #hashtags."
    :add-a-status                          "Agregar un estado..."

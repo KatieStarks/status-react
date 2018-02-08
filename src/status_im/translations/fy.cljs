@@ -12,7 +12,6 @@
    :cancel                                "Ôfbrekke"
    :next                                  "Folgjende"
    :type-a-message                        "Typ in berjocht..."
-   :type-a-command                        "Begjin mei in kommando te typen..."
    :error                                 "Flater"
 
    :camera-access-error                   "Om de kamera tastimming te jaan, gea nei dyn systeem ynstellings en wêz wis dat Status > Camera selektearre is."

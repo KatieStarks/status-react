@@ -15,7 +15,6 @@
    :description                           "Περιγραφή"
    :url                                   "URL"
    :type-a-message                        "Πληκτρολογήστε ένα μήνυμα..."
-   :type-a-command                        "Αρχίστε να πληκτρολογείτε μια εντολή..."
    :error                                 "Σφάλμα"
    :unknown-status-go-error               "Άγνωστο status-go σφάλμα"
    :node-unavailable                      "Κανένας κόμβος ethereum σε λειτουργία"

@@ -12,7 +12,6 @@
    :cancel                                "取消"
    :next                                  "下一个"
    :type-a-message                        "输入讯息..."
-   :type-a-command                        "开始输入指令..."
    :error                                 "错误"
 
    :camera-access-error                   "要授予所需的摄像机许可，请转到系统设置，并确定选择了“状态”>“摄像机”。"

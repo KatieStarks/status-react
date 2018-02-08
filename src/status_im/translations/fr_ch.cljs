@@ -215,7 +215,6 @@
 
    :sharing-share                         "Partagez…"
    :type-a-message                        "Tapez un message…"
-   :type-a-command                        "Commencez à taper une commande…"
    :shake-your-phone                      "Vous trouvez un bug ou vous avez une suggestion ? ~Secouez~ simplement votre natel !"
    :status-prompt                         "Créez un statut afin d'aider les gens à savoir ce que vous offrez. Vous pouvez également utiliser les #hashtags."
    :add-a-status                          "Ajoutez un statut…"

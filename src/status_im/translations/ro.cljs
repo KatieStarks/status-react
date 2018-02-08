@@ -215,7 +215,6 @@
 
    :sharing-share                         "Partajare..."
    :type-a-message                        "Tastați un mesaj..."
-   :type-a-command                        "Începeți să tastați o comandă..."
    :shake-your-phone                      "Ați găsit o eroare sau aveți o sugestie? E suficient ~să scuturați~ telefonul!"
    :status-prompt                         "Creați un status pentru a-i ajuta pe ceilalți să afle ce anume oferiți. Puteți folosi și #hashtag-uri."
    :add-a-status                          "Adăugați un status..."

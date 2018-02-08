@@ -17,7 +17,6 @@
    :open-dapp                             "Open ÐApp"
    :url                                   "URL"
    :type-a-message                        "Type a message..."
-   :type-a-command                        "Start typing a command..."
    :error                                 "Error"
    :unknown-status-go-error               "Unknown status-go error"
    :node-unavailable                      "No ethereum node running"
